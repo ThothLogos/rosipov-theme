@@ -1,0 +1,70 @@
+[General]
+Description=Rosipov
+
+[Background]
+Color=0,0,0
+
+[BackgroundIntense]
+Color=104,104,104
+
+[Foreground]
+Color=196,201,209
+
+[ForegroundIntense]
+Color=255,255,255
+
+; black
+[Color0]
+Color=7,54,66
+
+[Color0Intense]
+Color=0,43,54
+
+; red
+[Color1]
+Color=220,50,47
+
+[Color1Intense]
+Color=203,75,22
+
+; green
+[Color2]
+Color=0,200,132
+
+[Color2Intense]
+Color=0,200,132
+
+; yellow
+[Color3]
+Color=204,204,102
+
+[Color3Intense]
+Color=204,204,102
+
+; blue
+[Color4]
+Color=102,153,204
+
+[Color4Intense]
+Color=102,153,204
+
+; magenta
+[Color5]
+Color=211,54,130
+
+[Color5Intense]
+Color=108,113,196
+
+; cyan
+[Color6]
+Color=42,161,152
+
+[Color6Intense]
+Color=147,161,161
+
+; grey
+[Color7]
+Color=238,232,213
+
+[Color7Intense]
+Color=253,246,227
