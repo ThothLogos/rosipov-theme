@@ -1,6 +1,6 @@
 # Ruslan Osipov's Theme - For QTerminal and iTerm2
 
-I came across a fantastic theme called 'rosipov' in Git-Bash for Windows. I wanted to use it on Linux and macOS as well! This color scheme was created by [Ruslan Ospivov](https://www.rosipov.com) and the values are taken directly from [his blog post here](https://www.rosipov.com/blog/mintty-color-scheme-cygwin/).
+I came across a fantastic theme called 'rosipov' as part of the default install for Git-Bash on Windows. I fell in love and wanted to use it on Linux and macOS as well! This color scheme was created by [Ruslan Ospivov](https://www.rosipov.com) and the values are taken directly from [his blog post here](https://www.rosipov.com/blog/mintty-color-scheme-cygwin/).
 
 `Rosipov` - The original, exact values from his blog post.
 
