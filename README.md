@@ -10,8 +10,13 @@ I came across a fantastic theme called 'rosipov' in Git-Bash for Windows. I want
 
 ### QTerminal on Linux
 
-I've only use this on Xubuntu and Kali distros, not sure if directory locations vary! Copy the `.colorscheme` file of your choice to `/usr/share/qtermwidget5/color-schemes`. Restart `qterminal` then open __Preferences > Appearance__ and select the theme.
+- Copy the `.colorscheme` file of your choice to `/usr/share/qtermwidget5/color-schemes`
+- Close and re-open `qterminal`
+- Open __Preferences > Appearance__ and select the theme
 
 ### iTerm2 on macOS
 
-Open __Preferences > Profiles > Colors__ *or* use shortcut `Cmd-I`. Select the __Color Presets...__ drop-down menu and select __Import...__ to load the `.itermcolors` file of your choosing.
+- Open __Preferences > Profiles > Colors__ (shortcut `Cmd-I`)
+- Select the __Color Presets...__ drop-down menu
+- Select __Import...__
+- Import the `.itermcolors` file of your choosing
