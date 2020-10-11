@@ -6,6 +6,8 @@ I came across a fantastic theme called 'rosipov' as part of the default install 
 
 `Rosipov-lightfg` - Same theme but lightened up the primary foreground text a bit.
 
+![Screenshot](screenshot_rosipov.png)
+
 ## Installation
 
 ### QTerminal on Linux
