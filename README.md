@@ -1,4 +1,4 @@
-# Ruslan Osipov's Theme - For iTerm2, QTerminal, xfce4-terminal
+## Ruslan Osipov's Theme - For iTerm2, QTerminal, xfce4-terminal
 
 I came across a delightful theme as part of Mintty on Windows, called `rospiov`. I fell in love and
 wanted to use it in my other terminals. This color scheme was created by [Ruslan Ospivov](https://www.rosipov.com)
