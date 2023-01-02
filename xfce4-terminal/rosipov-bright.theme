@@ -1,0 +1,7 @@
+[Scheme]
+Name=RosipovBrightFG
+ColorForeground=rgb(196,201,209)
+ColorBackground=rgb(0,0,0)
+ColorCursor=rgb(220,50,47)
+TabActivityColor=#FFFFFF
+ColorPalette=rgb(7,54,66);rgb(220,50,47);rgb(0,200,132);rgb(204,204,102);rgb(102,153,204);rgb(211,54,130);rgb(42,161,152);rgb(238,232,213);rgb(0,43,54);rgb(203,75,22);rgb(0,200,132);rgb(204,204,102);rgb(102,153,204);rgb(108,113,196);rgb(147,161,161);rgb(253,246,227)
