@@ -17,13 +17,19 @@ There are two versions: the original values or one with a brighter foreground va
 - Select __Import...__
 - Import the `.itermcolors` file of your choosing
 
-### QTerminal on Kali
+### QTerminal
 
 - Copy `.colorscheme` file to `/usr/share/qtermwidget5/color-schemes`
 - Close and re-open `qterminal`
 - Open __Preferences > Appearance__ and select the theme
 
-### xfce4-terminal on Xubuntu
+### xfce4-terminal
 
 - Copy `.theme` file to `/usr/share/xfce4/terminal/colorschemes`
 - Open __Preferences > Colors > Presets__ and select the theme
+
+### Terminator
+
+- Open `~/.config/terminator/config` inside will be a `[[default]]` section with your current color scheme
+- Copy/paste the `Rosipov.config` contents and replace the default profile
+- Make sure __Preferences > Global > "Re-use profiles for new terminals"__ is checked
