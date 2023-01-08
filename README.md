@@ -1,4 +1,4 @@
-## Ruslan Osipov's Theme - For iTerm2, QTerminal, xfce4-terminal
+## Ruslan Osipov's Theme - For iTerm2, QTerminal, xfce4-terminal, Terminator
 
 I came across a delightful theme as part of Mintty on Windows, called `rospiov`. I fell in love and
 wanted to use it in my other terminals. This color scheme was created by [Ruslan Ospivov](https://www.rosipov.com)
@@ -31,5 +31,6 @@ There are two versions: the original values or one with a brighter foreground va
 ### Terminator
 
 - Open `~/.config/terminator/config` inside will be a `[[default]]` section with your current color scheme
-- Copy/paste the `Rosipov.config` contents and replace the default profile
-- Make sure __Preferences > Global > "Re-use profiles for new terminals"__ is checked
+- Copy/paste the `Rosipov.config` contents and replace the default profile, keeping the `[[default]]` heading
+- Alternatively, you can append it beneath the default profile, creating a 2nd profile for Rosipov
+- If you want to use non-default profiles, make sure __Preferences > Global > "Re-use profiles for new terminals"__ is checked
