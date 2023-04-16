@@ -1,7 +1,7 @@
 ## Ruslan Osipov's Theme - For iTerm2, QTerminal, xfce4-terminal, Terminator
 
-I came across a delightful theme as part of Mintty on Windows, called `rospiov`. I fell in love and
-wanted to use it in my other terminals. This color scheme was created by [Ruslan Ospivov](https://www.rosipov.com)
+I came across a delightful theme as part of Mintty on Windows, called `rosipov`. I fell in love and
+wanted to use it in my other terminals. This color scheme was created by [Ruslan Osipov](https://www.rosipov.com)
 and the values are taken directly from [his blog post here](https://www.rosipov.com/blog/mintty-color-scheme-cygwin/).
 
 There are two versions: the original values or one with a brighter foreground value.
